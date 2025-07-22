@@ -21,7 +21,7 @@ This project implements a secure login system using React, Redux Toolkit, and no
 * Logout Functionality
 
 # Getting Started
-> $ git clone [https://github.com/Ahmedbm98/](https://github.com/Ahmedbm98/Meetusvr.git)
+> $ git clone [(https://github.com/Ahmedbm98/Meetusvr.git](https://github.com/Ahmedbm98/Meetusvr.git)
 
 > $ cd Meetusvr
 
