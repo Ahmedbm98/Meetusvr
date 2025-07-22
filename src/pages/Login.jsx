@@ -121,13 +121,13 @@ function Login() {
           <img
             src={meetusvr}
             alt="meetusvr"
-            loading={lazy}
+            loading="lazy"
             className=" w-full max-h-[700px] object-contain"
           />
           <img
             src={meetuslogo}
             alt="meetusvr logo"
-            loading={lazy}
+            loading"lazy"
             className="absolute left-[50%] translate-x-[-50%] top-[70%]"
           />
         </div>
