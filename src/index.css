@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+   body {
+      font-family: 'ABeeZee', sans-serif;
+   }
+}
+
+input {
+   position: relative;
+}
+
+input i {
+   position: absolute;
+   top: 50%;
+   left: 10px;
+   transform: translateY(-50%);
+   color: #a0aec0;
+   /* Tailwind's gray-400 */
+}
+
+.main-login {
+   position: relative;
+}
+
+.main-login .Ellipse-top-left {
+   position: absolute;
+   width: 807px;
+   height: 807px;
+   left: 38px;
+   top: -372px;
+   background: #9E77F6;
+   opacity: 0.6;
+   filter: blur(400px);
+
+}
+
+.main-login .Ellipse-bottom-left {
+   position: absolute;
+   width: 813px;
+   height: 813px;
+   left: -117px;
+   top: 646px;
+   background: #B0D2E5;
+   opacity: 0.6;
+   filter: blur(400px);
+}
+
+.main-login .Ellipse-top-right {
+   position: absolute;
+   width: 667px;
+   height: 667px;
+   left: 638px;
+   top: -247px;
+   background: #E477F6;
+   filter: blur(200px);
+}
+
+
+.main-login .Ellipse-bottom-right {
+   position: absolute;
+   width: 667px;
+   height: 667px;
+   left: 1083px;
+   top: 667px;
+   background: #9E77F6;
+   filter: blur(200px);
+}
