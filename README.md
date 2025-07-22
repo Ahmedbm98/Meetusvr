@@ -5,7 +5,7 @@ This project implements a secure login system using React, Redux Toolkit, and no
 * https://drive.google.com/file/d/1VX3gwGH26jf7U4Upyz50YWwhJNWM5mGI/view?usp=sharing
 
 # Live App
-- [Meetus_Job_Task]()
+- [Meetus_Job_Task](https://meetusvr-self.vercel.app/)
 
 # Technologies, Libraries
 1. **Axios**: Simplifies API requests, making communication with the Route Ecommerce API efficient and straightforward.
