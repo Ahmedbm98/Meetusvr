@@ -121,7 +121,7 @@ function Login() {
           <img
             src={meetusvr}
             alt="meetusvr"
-            loading="lazy"
+            loading ="lazy"
             className=" w-full max-h-[700px] object-contain"
           />
           <img
